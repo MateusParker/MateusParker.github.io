@@ -1,0 +1,19 @@
+#formulario input{
+
+	width: 100%;
+	height: 30px;
+	border: 1px lightgray solid;
+}
+
+#formulario textarea{
+
+	width: 100%;
+	height: 240px;
+	border: 1px lightgray solid;
+}
+
+
+#formulario button{
+
+	color: white;
+}
